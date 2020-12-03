@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\RainbowFox\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\RainbowFox\\.nuget\\packages"
+    ]
+  }
+}
